@@ -9,7 +9,7 @@
   "author": "John Lee",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
