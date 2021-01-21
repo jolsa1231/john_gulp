@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.4.1",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
